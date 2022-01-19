@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>130383626444-a976pctt8muh0p9u7brk276h3u50n09k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.130383626444-a976pctt8muh0p9u7brk276h3u50n09k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>130383626444-3j1i25o52fbe0q7ln5d1f3d4d8qucphj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCX48NUMkjorMhC_aEnLHjgcukoKQ0OFuI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>130383626444</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.foodeze.foodezeapp</string>
+	<key>PROJECT_ID</key>
+	<string>foodeze-flutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodeze-flutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:130383626444:ios:4fd7120ac1fc75abe74269</string>
+</dict>
+</plist>

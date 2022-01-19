@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "130383626444",
+    "project_id": "foodeze-flutter",
+    "storage_bucket": "foodeze-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130383626444:android:9075f737dc7be588e74269",
+        "android_client_info": {
+          "package_name": "com.foodeze.foodezeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130383626444-3j1i25o52fbe0q7ln5d1f3d4d8qucphj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodeze.foodezeapp",
+            "certificate_hash": "8b10d5922ef2e0cfb23c2db181c4f20838b478f4"
+          }
+        },
+        {
+          "client_id": "130383626444-vm76dr8h28gchsqsfl32bq058hdk19is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgKplFfuQ42Zw73ptyXo6tN8J6vu7tdF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130383626444-vm76dr8h28gchsqsfl32bq058hdk19is.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130383626444-a976pctt8muh0p9u7brk276h3u50n09k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodeze.foodezeapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
